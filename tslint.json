@@ -96,7 +96,7 @@
     "variable-name": [true, "ban-keywords", "check-format", "allow-leading-underscore"],
     "whitespace": [true, "check-branch", "check-decl", "check-operator", "check-module", "check-separator", "check-rest-spread",
       "check-type", "check-typecast", "check-type-operator", "check-preblock"],
-    "file-header": [true, "Copyright \\d{4} Mubasher Financial Services \\(DIFC\\) Limited\\. All rights reserved\\.", "Copyright 2019 Mubasher Financial Services (DIFC) Limited. All rights reserved.\n\nUnauthorized access, copying, publishing, sharing, reuse of algorithms, concepts, design patterns \nand code level demonstrations are strictly prohibited without any written approval of \nMubasher Financial Services (DIFC) Limited."],
+    "file-header": [true, "Copyright \\d Dasun Muthuruwan ~~ Gayashani Ranasinghe \\. All rights reserved\\."],
 
 
     "directive-selector": [true, "attribute", ["app"], "camelCase"],
