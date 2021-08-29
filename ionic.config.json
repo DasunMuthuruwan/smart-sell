@@ -1,0 +1,7 @@
+{
+  "name": "SmartSell",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

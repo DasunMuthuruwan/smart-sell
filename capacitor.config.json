@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "SmartSell",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
