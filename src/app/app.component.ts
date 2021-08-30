@@ -7,10 +7,10 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
 	public appPages = [
-	{ title: 'Dash Board', url: 'public/menu/dashboard', icon: 'mail' },
-	{ title: 'Vehicles', url: 'public/menu/vehicles', icon: 'paper-plane' },
-	{ title: 'Lands', url: 'public/menu/lands', icon: 'heart' },
-	{ title: 'Parts', url: 'public/menu/parts', icon: 'archive' },
+	{ title: 'Dash Board', url: '/public/menu/dashboard', icon: 'mail' },
+	{ title: 'Vehicles', url: '/public/menu/vehicles', icon: 'paper-plane' },
+	{ title: 'Lands', url: '/public/menu/lands', icon: 'heart' },
+	// { title: 'Parts', url: 'public/menu/parts', icon: 'archive' },
 	];
 	constructor() {
 	//
