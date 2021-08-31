@@ -4,13 +4,11 @@ import { NgModule } from '@angular/core';
 import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 import { AngularMaterialModule } from '../../../../app/modules/angular-material.module';
 import { LandsPage } from './lands/lands.page';
-import { SideMenuWidgetsRoutingModule } from './side-menu-widgets.routing.module';
 import { VehiclesPage } from './vehicles/vehicles.page';
 
 @NgModule({
 	imports: [
 		CommonModule,
-		SideMenuWidgetsRoutingModule,
 		AngularMaterialModule,
 		ReactiveFormsModule,
 		FormsModule,
